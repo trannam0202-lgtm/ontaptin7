@@ -1,0 +1,6 @@
+{
+  "name": "ÔN TẬP & CỦNG CỐ KIẾN THỨC TIN HỌC 7",
+  "description": "Ứng dụng ôn tập và củng cố kiến thức Tin học 7 - THCS Tiến Hưng, phường Bình Phước, TP Đồng Nai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
